@@ -1,4 +1,5 @@
-# git# 💫 About Me:
+
+💫 About Me:
 I am a Gen AI Developer focused on building practical, real-world applications using large language models. I enjoy turning ideas into working systems, whether that’s through prompt engineering, API integrations, or automation workflows. My goal is to create AI-powered solutions that are simple, useful, and reliable in day-to-day use.
 
 
